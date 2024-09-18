@@ -1,5 +1,8 @@
 @echo off
 cls
-echo hello
-pause
+
+start https://logibox.onrender.com
+start notepad.exe
+
+
 del snailject.bat
